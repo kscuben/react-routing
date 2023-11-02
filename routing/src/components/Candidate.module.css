@@ -1,0 +1,25 @@
+.candidate{
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    background-color: white;
+}
+
+.action-buttons{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.shorlist-button{
+    background-color: rgb(33, 204, 33);
+    color:white;
+    padding:5px;
+    text-align: center;
+}
+.reject-button{
+    background-color: rgb(238, 34, 34);
+    color:white;
+    padding:5px;
+    text-align: center;
+}

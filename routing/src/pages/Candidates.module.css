@@ -1,0 +1,6 @@
+.candidates-list{
+    display: inline-flex;
+    gap:1rem;
+    flex-wrap: wrap;
+    margin:0.25rem;
+}
